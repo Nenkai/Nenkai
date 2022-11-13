@@ -2,7 +2,7 @@
 
 I am a developer and reverse-engineer with a passion for fiddling with racing games, most notably Gran Turismo.
 
-## Here is an overview of major things I have done towards Gran Turismo
+## Here is an overview of major things I have done towards the series
 * [GTToolsSharp](https://github.com/Nenkai/GTToolsSharp) - Volume unpacker & packer for GT5/6/Sport/7
 * [GT4FS](https://github.com/Razer2015/GT4FS) - Volume unpacker & packer for GT4
 * [GTPSPVolTools](https://github.com/Nenkai/GTPSPVolTools) - Volume unpacker & packer for GT PSP
