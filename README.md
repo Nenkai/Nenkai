@@ -7,6 +7,7 @@ I am a developer and reverse-engineer with a passion for fiddling with racing ga
 * [GT4FS](https://github.com/Razer2015/GT4FS) - Volume unpacker & packer for GT4
 * [GTPSPVolTools](https://github.com/Nenkai/GTPSPVolTools) - Volume unpacker & packer for GT PSP
 * [Adhoc Toolchain](https://github.com/Nenkai/GTAdhocToolchain) - Toolchain/Compiler for the Gran Turismo Scripting language
+* [OpenAdhoc](https://github.com/Nenkai/OpenAdhoc) - Open Source reimplementation of Gran Turismo Scripts
 * [PDTools](https://github.com/Nenkai/PDTools) - Tools and utilities for Gran Turismo, notably Simulator Interface API
 * [SGXDataBuilder](https://github.com/Nenkai/SGXDataBuilder) - Builder for Sony SGX Audio files used in PSP/PS3 games
 * [GT4SaveEditor](https://github.com/Nenkai/GT4SaveEditor) - GT4 Save Editor & Decryptor
