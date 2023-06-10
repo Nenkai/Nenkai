@@ -25,7 +25,7 @@ I am a developer and reverse-engineer with a passion for fiddling with racing ga
 ## Socials
 * [Twitter](https://twitter.com/Nenkaai)
 * [GTPlanet](https://www.gtplanet.net/forum/members/nenkai.313999/)
-* Discord - Nenkai#9075
+* Discord - Nenkai
 
 ## Gran Turismo Modding Community Discord
 I also own a community for Gran Turismo related modding, join if you're interested into game modifications and discoveries like me!
