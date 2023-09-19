@@ -16,6 +16,8 @@ I am a developer and reverse-engineer with a passion for fiddling with racing ga
 * [GT5/6 Modding Guides](https://github.com/Nenkai/Gran-Turismo-5-6-Modding-Guides)
 
 ## For more things unrelated to Gran Turismo
+* [ForzaTools](https://github.com/Nenkai/ForzaTools) - Tools for Forza incl. TFIT Decryptor
+* [TCMotorfest.Unpacker](https://github.com/Nenkai/TCMotorfest.Unpacker) - Game Data Unpacker for The Crew Motorfest 
 * [DriveClubFS](https://github.com/Nenkai/DriveClubFS) - Game Data Unpacker for DriveClub
 * [RRUnpacker](https://github.com/Nenkai/RRUnpacker) - Game Data Unpacker for Ridge Racer PSP/6/7/PS Vita
 * [PCarsTools](https://github.com/Nenkai/PCarsTools) - Game Data Unpacker & Decryptor for Slightly Mad Studios games/Project Cars
