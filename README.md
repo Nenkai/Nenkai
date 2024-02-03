@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a developer and reverse-engineer with a passion for fiddling with games (formerly mainly Gran Turismo)
+I am a developer and reverse-engineer with a passion for fiddling with games (formerly Gran Turismo)
 
 ## For general things related to games
 * [ForzaTools](https://github.com/Nenkai/ForzaTools) - Tools for Forza incl. TFIT Decryptor
