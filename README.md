@@ -9,6 +9,7 @@ If you need to reach out to me easily
 ## For general things related to games
 * [XenoTools](https://github.com/Nenkai/XenoTools) - Tools for Xenoblade Chronicles incl. a compiler for script files
 * [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools) - Game Data Handler for Granblue Fantasy: Relink
+* [FF16Pack](https://github.com/Nenkai/FF16Pack) - Game Data Unpacker/Packer for Final Fantasy 16
 * [010GameTemplates](https://github.com/Nenkai/010GameTemplates/tree/main) - Many 010 Editor templates for various games I've dealt with
 * [Fear2Tools](https://github.com/Nenkai/Fear2Tools) - Various tools for dealing with F.E.A.R 2 files
 
