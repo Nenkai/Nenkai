@@ -7,7 +7,7 @@ If you need to reach out to me easily
 * [Twitter](https://twitter.com/Nenkaai)
 * [NexusMods](https://next.nexusmods.com/profile/Nenkaai/about-me)
 
-* ## For general things related to games
+## For general things related to games
 * [XenoTools](https://github.com/Nenkai/XenoTools) - Tools for Xenoblade Chronicles incl. a compiler for script files
 * [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools) - Game Data Handler for Granblue Fantasy: Relink
 * [FF16Pack](https://github.com/Nenkai/FF16Pack) - Game Data Unpacker/Packer for Final Fantasy 16
