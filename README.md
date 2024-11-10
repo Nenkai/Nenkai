@@ -3,7 +3,6 @@
 I am a developer, modder and reverse-engineer with a passion for fiddling with games, mainly JRPGs~ 
 
 If you need to reach out to me easily
-* Discord - Nenkai
 * [Twitter](https://twitter.com/Nenkaai)
 * [NexusMods](https://next.nexusmods.com/profile/Nenkaai/about-me)
 
