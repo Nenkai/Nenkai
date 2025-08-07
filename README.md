@@ -11,7 +11,7 @@ If you need to reach out to me easily (just, no mod/tech support please)
 * [ResHax](https://reshax.com/profile/66-nenkai/)
 
 ## Some of my work
-A full short project list is available [here!](https://github.com/Nenkai/Nenkai/blob/main/ProjectList.md)
+As I've worked on a *lot* of projects, a full short project list is available [here!](https://github.com/Nenkai/Nenkai/blob/main/ProjectList.md) Nearly all of my work is open-sourced as I believe this is the only way forward (especially in modding communities).
 
 * [XenoTools](https://github.com/Nenkai/XenoTools) - Tools for Xenoblade Chronicles incl. a compiler for script files
 * [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools) - Game Data Handler for Granblue Fantasy: Relink
