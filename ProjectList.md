@@ -83,7 +83,7 @@ As an advocate to OSS, most of my work is available is available on Github. *Som
 * [https://github.com/Nenkai/ACEvo.Package](ACEvo.Package) - `.kspkg` package extractor for Assetto Corsa Evo
 
 ### Codemasters
-* [https://github.com/Nenkai/GameCheat-Unlockers] - Game Cheats unlockers for various Codemasters Games
+* [https://github.com/Nenkai/GameCheat-Unlockers](GameCheat-Unlockers) - Game Cheats unlockers for various Codemasters Games
 
 ### DriveClub
 * [DriveClubFS](https://github.com/Nenkai/DriveClubFS) - DriveClub file system extractor & `.rpk` texture extractor
