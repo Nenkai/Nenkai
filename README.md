@@ -2,11 +2,17 @@
 
 I am a developer, modder and reverse-engineer with a passion for fiddling with games, mainly JRPGs~ 
 
-If you need to reach out to me easily
+I mostly use C#, with experience in C/C++.
+
+If you need to reach out to me easily (just, no mod/tech support please)
+* Discord: Nenkai
 * [Twitter](https://twitter.com/Nenkaai)
 * [NexusMods](https://next.nexusmods.com/profile/Nenkaai/about-me)
+* [ResHax](https://reshax.com/profile/66-nenkai/)
 
-## For general things related to games
+## Some of my work
+A full short project list is available [here!](https://github.com/Nenkai/Nenkai/blob/main/ProjectList.md)
+
 * [XenoTools](https://github.com/Nenkai/XenoTools) - Tools for Xenoblade Chronicles incl. a compiler for script files
 * [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools) - Game Data Handler for Granblue Fantasy: Relink
 * [FF16Pack](https://github.com/Nenkai/FF16Pack) - Game Data Unpacker/Packer for Final Fantasy 16
