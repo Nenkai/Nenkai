@@ -2,13 +2,15 @@
 
 I am a developer, modder and reverse-engineer with a passion for fiddling with games, mainly JRPGs~ 
 
-I mostly use C#, with experience in C/C++.
+I mainly use C#, with experience in C (and little C++).
 
 If you need to reach out to me easily (just, no mod/tech support please)
 * Discord: Nenkai
 * [Twitter](https://twitter.com/Nenkaai)
 * [NexusMods](https://next.nexusmods.com/profile/Nenkaai/about-me)
 * [ResHax](https://reshax.com/profile/66-nenkai/)
+
+**Side note**: Please do not open issues or PRs written or made entirely using AI.
 
 ## Some of my work
 As I've worked on a *lot* of projects, a full short project list is available [here!](https://github.com/Nenkai/Nenkai/blob/main/ProjectList.md) Nearly all of my work is open-sourced as I believe this is the only way forward (especially in modding communities).
