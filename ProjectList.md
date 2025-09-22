@@ -26,6 +26,9 @@ As an advocate to OSS, most of my work is available is available on Github. *Som
 #### Mobius Final Fantasy
 * [MobiusFF.Crypt](https://github.com/Nenkai/MobiusFF.Crypt) - `Assembly-CSharp.dll` & `.dat` file decryptor
 
+### Babylon's Fall
+* [BabylonsFallTools](https://github.com/Nenkai/BabylonsFallTools) - .pkzl/.dat extractor for Babylon's Fall (PC)
+
 ### Granblue Fantasy: Relink
 * [relink-modding](https://github.com/Nenkai/relink-modding) - GBFR Modding Website
 * [GBFRDataTools](https://github.com/Nenkai/GBFRDataTools) - Data archive extractor & libraries for dealing with Granblue Fantasy: Relink
