@@ -10,7 +10,7 @@ If you need to reach out to me easily (just, no mod/tech support please)
 * [NexusMods](https://next.nexusmods.com/profile/Nenkaai/about-me)
 * [ResHax](https://reshax.com/profile/66-nenkai/)
 
-**Side note: Please do not open issues or PRs that were primarly created through the use of AI. They will be ignored.**
+**Side note: Please do not open issues or PRs that were primarly created through the use of AI. They will be ignored.** Keep your Codex/Claudeslop away from my repositories.
 
 **I also do not consent to any of my code being fed into LLMs in ANY capacity**.
 
