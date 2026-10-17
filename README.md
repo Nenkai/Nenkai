@@ -1,4 +1,4 @@
-### Before Anything
+### Before Anything, no AI
 
 **Please do not open issues or PRs that were primarly created through the use of AI. They will be ignored.** Keep your Codex/Claudeslop away from my repositories.
 
